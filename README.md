@@ -19,6 +19,10 @@ Organize your dataset under transfer/data/ with the following structure:
     ├── val/
     └── test/
     
+Data source:
+
+https://github.com/smousavi05/STEAD
+
 Run the debug script to verify data loading:
     
     python transfer/debug_data.py
